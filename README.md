@@ -62,6 +62,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
 ## Images
 
+- [Aurcue](https://www.aurcue.com) - Aurcue is an AI personal aesthetic assistant that turns one photo into practical guidance for color analysis, outfits, hairstyles, and glasses. [FREE/PAID]
 - [MidJourney](https://www.midjourney.com/app/feed/all/) - MidJourney is a customer journey mapping platform that helps businesses visualize and optimize their customer's journey. [FREE/PAID]
 - [DALL-E 2](https://openai.com/product/dall-e-2) - DALL-E is an AI-powered image generation program developed by OpenAI that can create high-quality, unique images from textual descriptions, ranging from animals and objects to scenes and abstract concepts. [FREE/PAID]
 - [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/) - NVIDIA Canvas is an AI-powered app that enables digital artists to turn simple sketches into photorealistic landscapes, portraits, and abstract images. [FREE (BETA)]
