@@ -103,6 +103,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [Gracker AI](https://www.gracker.ai/) - AI Editorial and Programmatic SEO solution for B2B Cybersecurity SaaS companies.[FREE/PAID]
 - [Onranko](https://onranko.com/) - AI Agents to create SEO strategy for digital marketing and profession blog images .[FREE/PAID]
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing 9 SEO and Google Ads skills — Google Search Console, PageSpeed Insights, keyword bids, meta tags, schema markup, and CMS content pushes. [FREE/OPEN SOURCE]
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. [FREE/OPEN SOURCE]
 
 
 ## Contributing
