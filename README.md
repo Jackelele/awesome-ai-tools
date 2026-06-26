@@ -66,6 +66,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [DALL-E 2](https://openai.com/product/dall-e-2) - DALL-E is an AI-powered image generation program developed by OpenAI that can create high-quality, unique images from textual descriptions, ranging from animals and objects to scenes and abstract concepts. [FREE/PAID]
 - [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/) - NVIDIA Canvas is an AI-powered app that enables digital artists to turn simple sketches into photorealistic landscapes, portraits, and abstract images. [FREE (BETA)]
 - [Segmind](https://www.segmind.com/) - Segmind helps you deploy open source Generative AI models with the fastest APIs. [Free]
+- [HairWow](https://www.gohairwow.com/) - AI hairstyle try-on for previewing haircuts, colors, beards, and curl styles before a salon or barber visit. [FREE/PAID]
 
 ## Social Media
 
