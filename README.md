@@ -55,6 +55,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
 ## Audio
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [DeScript](https://www.descript.com/) - Descript is an audio and video editing platform that uses AI-powered transcription and editing tools to simplify the editing process. [FREE/PAID]
 - [EvenLabs](https://beta.elevenlabs.io/) - Elevenlabs specializes in natural-sounding speech synthesis and text-to-speech software, using artificial intelligence and deep learning. [FREE/PAID]
 - [Kveeky](https://www.kveeky.com/) - AI Voiceover Artist for Your Next Video. [FREE/PAID]
