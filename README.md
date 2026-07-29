@@ -21,6 +21,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Chat
 
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is a large language model created by OpenAI that is capable of generating human-like responses to natural language inputs. [FREE/PAID]
+- [GPTGeminiGrok.AI](https://trygrokai.asia/) - A browser workspace for chatting with GPT, Gemini, and Grok models and generating images. Account required; free tier limited to 10 requests per day. [FREE/PAID]
 - [Kuki AI](https://www.kuki.ai/) - Kuki is an AI-powered chatbot platform that enables businesses to create and deploy chatbots for customer service, sales, and marketing purposes. [FREE]
 - [AskYourPDF](https://askyourpdf.com/) - AskYourPDF is an online tool that allows users to convert their PDF documents into interactive forms that can be filled out and signed electronically, making it easier for businesses to collect and manage data from clients and customers. [FREE]
 
