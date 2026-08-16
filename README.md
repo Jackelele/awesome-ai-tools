@@ -49,6 +49,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Video
 
 - [Synthesia](https://www.synthesia.io/) - Synthesia is an AI-powered video generation platform that uses machine learning to create realistic videos from text inputs. The platform enables businesses to scale their video content creation process and provides a cost-effective solution for producing personalized videos at scale. [PAID]
+- [videos.social](https://videos.social/?utm_source=jackelele-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) - videos.social turns blogs, PDFs, and prompts into editable faceless videos rather than a locked regenerate loop. Start free — 1 render included. [FREE/PAID]
 - [Quinvio AI](https://www.quinv.io/ai) - Quinv is an AI-powered software platform that helps businesses automate their back-office operations, streamline processes, and improve decision-making through advanced analytics and data visualization. [FREE/PAID]
 - [RunwayML Gen2](https://research.runwayml.com/gen2) - RunwayML Gen2 is an AI-powered creative tool that enables artists and designers to create, train, and deploy machine learning models without requiring extensive coding knowledge. [FREE/PAID]
 - [D-ID](https://studio.d-id.com/) - D-ID is an AI-powered solution that helps businesses protect their customers' privacy by anonymizing facial images and videos using deep learning algorithms. [FREE/PAID]
