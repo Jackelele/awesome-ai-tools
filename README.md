@@ -32,6 +32,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
 ## Writing
 
+- [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker for job applications. [FREE/PAID]
 - [Copy.Ai](https://www.copy.ai/) - Copy Ai is an AI-powered writing tool that uses natural language processing to generate high-quality content quickly. Users can enter a prompt, select a style or tone, and generate multiple options for various types of written content. [FREE/PAID]
 - [Jasper AI](https://www.jasper.ai/) - Jasper is an AI-powered scheduling assistant that automates meeting scheduling and calendar management. [PAID]
 - [Fireflies](https://fireflies.ai/) - Fireflies is an AI-powered meeting assistant that automatically transcribes, summarizes, and analyzes meetings. [FREE/PAID]
