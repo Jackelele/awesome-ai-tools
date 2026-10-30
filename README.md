@@ -8,6 +8,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
  - [Coding](#Coding)
  - [Writing](#Writing)
  - [Video](#Video)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
  - [Audio](#Audio)
  - [Social Media](#Social-Media)
  - [Legal](#Legal) 
