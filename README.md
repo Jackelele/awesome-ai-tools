@@ -7,6 +7,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
  - [Chat](#Chat)
  - [Coding](#Coding)
  - [Writing](#Writing)
+ - [Career](#Career)
  - [Video](#Video)
  - [Audio](#Audio)
  - [Social Media](#Social-Media)
@@ -44,6 +45,10 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [Caktus AI](https://www.caktus.ai/) - Caktus is the first ever educational artificial intelligence tool. It allows you to automate all of your school work so you can spend more time doing the things you love! [FREE]
 - [WorldTune](https://www.wordtune.com/) - Everyone has tons of work to get through. Some accept the frustration. Others choose Wordtune Generative AI to speed up their tasks. [FREE/PAID]
 - [LogicBalls](https://www.logicballs.com/) - LogicBalls is an AI tool that helps businesses create high-quality marketing content, product descriptions, ads, social media posts, and blog posts, making content creation faster and easier [FREE/PAID]
+
+## Career
+
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal. [FREE/PAID]
 
 
 ## Video
