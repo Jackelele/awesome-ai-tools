@@ -63,6 +63,9 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Images
 
 - [MidJourney](https://www.midjourney.com/app/feed/all/) - MidJourney is a customer journey mapping platform that helps businesses visualize and optimize their customer's journey. [FREE/PAID]
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [DALL-E 2](https://openai.com/product/dall-e-2) - DALL-E is an AI-powered image generation program developed by OpenAI that can create high-quality, unique images from textual descriptions, ranging from animals and objects to scenes and abstract concepts. [FREE/PAID]
 - [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/) - NVIDIA Canvas is an AI-powered app that enables digital artists to turn simple sketches into photorealistic landscapes, portraits, and abstract images. [FREE (BETA)]
 - [Segmind](https://www.segmind.com/) - Segmind helps you deploy open source Generative AI models with the fastest APIs. [Free]
