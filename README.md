@@ -69,6 +69,9 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 - [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s 21:9 solo video (Paid from $7.99; not affiliated with Riot/K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99; unofficial)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99; unofficial)
 - [DALL-E 2](https://openai.com/product/dall-e-2) - DALL-E is an AI-powered image generation program developed by OpenAI that can create high-quality, unique images from textual descriptions, ranging from animals and objects to scenes and abstract concepts. [FREE/PAID]
 - [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/) - NVIDIA Canvas is an AI-powered app that enables digital artists to turn simple sketches into photorealistic landscapes, portraits, and abstract images. [FREE (BETA)]
 - [Segmind](https://www.segmind.com/) - Segmind helps you deploy open source Generative AI models with the fastest APIs. [Free]
