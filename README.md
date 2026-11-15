@@ -23,6 +23,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is a large language model created by OpenAI that is capable of generating human-like responses to natural language inputs. [FREE/PAID]
 - [Kuki AI](https://www.kuki.ai/) - Kuki is an AI-powered chatbot platform that enables businesses to create and deploy chatbots for customer service, sales, and marketing purposes. [FREE]
 - [AskYourPDF](https://askyourpdf.com/) - AskYourPDF is an online tool that allows users to convert their PDF documents into interactive forms that can be filled out and signed electronically, making it easier for businesses to collect and manage data from clients and customers. [FREE]
+- [Sammi: AI Girlfriend](https://sammiai.app/) - Android fictional AI character chat with voice interaction, customization and creative roleplay. [FREE DOWNLOAD / IN-APP PURCHASES]
 
 
 ## Coding
